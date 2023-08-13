@@ -1,4 +1,14 @@
+# Line format is as follows:
+# display name : permissions level
+
+# Test Users
 Icyvarix : 12345
-Austen_ : 3
-≻Spacy≺ : 2
+
+# Admins
+Austen_ : 3 
+
+# Mods
+≻Spacy≺ : 2 # Most approachable mod
+
+# Guides/Event Coordinators
 MockingOwl : 1
