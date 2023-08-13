@@ -2,7 +2,7 @@
 # display name : permissions level
 
 # Test Users
-Icyvarix : 0
+Icyvarix : 255
 
 # Admins
 Austen_ : 3 
